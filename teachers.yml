@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2023-07-17 14:18">
+  <shop>
+    <name>Skyeng</name>
+    <company>AGATON LTD</company>
+    <url>job.skyeng.ru</url>
+    <email>hr@skyteach-skyeng.ru</email>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Вакансия</category>
+      <category id="2">Работодатель</category>
+      <category id="3" parentId="1">Учитель, преподаватель, педагог, репетитор</category>
+    </categories>
+    <sets>
+      <set id="s1">
+        <name>Ищем учителей в онлайн-школу Skyeng и Skysmart</name>
+        <url>https://job.skyeng.ru/prepodavatelyam</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="eng1">
+        <name>Учитель английского языка</name>
+        <vendor>Skyeng</vendor>
+        <url>https://job.skyeng.ru/english-teachers</url>
+        <price from="true">35000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">9</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+        <param name="Зарплата до">75000</param>
+      </offer>
+      <offer id="eng2">
+        <name>Учитель английского языка для IT</name>
+        <vendor>Skyeng</vendor>
+        <url>https://job.skyeng.ru/premium-ab</url>
+        <price from="true">60000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">10</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">5</param>
+      </offer>
+      <offer id="eng3">
+        <name>Учитель английского языка для детей</name>
+        <vendor>Skyeng</vendor>
+        <url>https://job.skyeng.ru/primary-english</url>
+        <price from="true">20000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">2</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+        <param name="Зарплата до">67000</param>
+      </offer>
+      <offer id="math">
+        <name>Учитель математики</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/math</url>
+        <price from="true">40000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">5</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+        <param name="Зарплата до">60000</param>
+      </offer>
+      <offer id="cc1">
+        <name>Учитель информатики</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/programmirovanie</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">4</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+        <param name="Зарплата до">80000</param>
+      </offer>
+      <offer id="phys">
+        <name>Учитель физики</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/physics</url>
+        <price from="true">40000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">3</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">3</param>
+        <param name="Зарплата до">100000</param>
+      </offer>
+      <offer id="chem">
+        <name>Учитель химии</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/chemistry</url>
+        <price from="true">30000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">8</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+      </offer>
+      <offer id="soc">
+        <name>Учитель обществознания и истории</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/social</url>
+        <price from="true">30000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">7</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+      </offer>
+      <offer id="rus">
+        <name>Учитель русского языка и литературы</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/russian</url>
+        <price from="true">35000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">6</param>
+        <param name="График работы">Удаленная работа</param>
+        <param name="Опыт работы">1</param>
+      </offer>
+      <offer id="chess">
+        <name>Тренер по шахматам</name>
+        <vendor>Skysmart</vendor>
+        <url>https://job.skyeng.ru/chess</url>
+        <price from="true">30000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3339-3563-4565-b337-303430663938/favicon.ico</picture>
+        <param name="Конверсия">2</param>
+        <param name="График работы">Удаленная работа</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
